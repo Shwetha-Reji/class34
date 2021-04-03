@@ -78,8 +78,8 @@ function draw(){
 Matter.Body.setPosition(ball.body,{x:mouseX,y:mouseY})
 }
 
-function mouseReleased()
+//function mouseReleased()
 {
-rope.fly();
+//rope.fly();
 
 }
